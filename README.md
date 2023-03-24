@@ -1,3 +1,3 @@
-# gpt4-spanish
+# This repo is deprecated.
 
-This is a GPT-4 prompt that creates a Spanish teacher to practice Spanish with.
+Please see the `examples/` directory in https://github.com/jbrukh/gpt-jargon.
